@@ -1,0 +1,60 @@
+%YAML:1.0
+---
+#Chessboard size 
+#nums stand for inner corners!!!
+Cols: 11
+Rows: 8
+calibration_images:
+   - "/home/lucas/projects/CrayonRestruction/data/image1.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/image2.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/image3.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/image4.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/image5.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/image6.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/image7.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/image8.jpg"
+sfm_images:
+   - "/home/lucas/projects/CrayonRestruction/data/1.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/2.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/3.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/4.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/5.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/6.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/7.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/8.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/9.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/10.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/11.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/12.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/13.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/14.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/15.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/16.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/17.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/18.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/19.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/20.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/21.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/22.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/23.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/24.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/25.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/26.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/27.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/28.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/29.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/30.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/31.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/32.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/33.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/34.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/35.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/36.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/37.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/38.jpg"
+   - "/home/lucas/projects/CrayonRestruction/data/39.jpg"
+
+
+
+
+
